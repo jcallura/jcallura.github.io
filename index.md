@@ -4,13 +4,14 @@ This application provides a point and click interface that allows users to quick
 <!--#### THIS APPLICATION HAS BEEN TEMPORARILY DISABLED FOR MAINTENANCE-->
 [Launch Web Application](http://44.230.157.126:3838)
 <br><br>
-####Request new features, report a bug, or provide feedback
+#### Request new features, report a bug, or provide feedback
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
     <fieldset id="fs-frm-inputs">
       <label for="full-name">Full Name</label>
       <input type="text" name="name" id="full-name" placeholder="Optional" required="">
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="Optional" required="">
+        <br>
       <label for="message">Message</label>
       <textarea rows="5" name="message" id="message" placeholder="Message" required=""></textarea>
       <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
