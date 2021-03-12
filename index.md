@@ -9,6 +9,7 @@ This application provides a point and click interface that allows users to quick
     <fieldset id="fs-frm-inputs">
       <label for="full-name">Full Name</label>
       <input type="text" name="name" id="full-name" placeholder="Optional" required="">
+        <br>
       <label for="email-address">Email Address</label>
       <input type="email" name="_replyto" id="email-address" placeholder="Optional" required="">
         <br>
