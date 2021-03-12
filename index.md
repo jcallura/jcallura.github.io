@@ -4,7 +4,17 @@ This application provides a point and click interface that allows users to quick
 <!--#### THIS APPLICATION HAS BEEN TEMPORARILY DISABLED FOR MAINTENANCE-->
 [Launch Web Application](http://44.230.157.126:3838)
 <br><br>
-<form>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
+    <fieldset id="fs-frm-inputs">
+      <label for="full-name">Full Name</label>
+      <input type="text" name="name" id="full-name" placeholder="Michael Bubbly" required="">
+      <label for="email-address">Email Address</label>
+      <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+      <label for="message">Message</label>
+      <textarea rows="5" name="message" id="message" placeholder="What's the fizz?" required=""></textarea>
+      <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    </fieldset>
+    <input type="submit" value="Submit">
   <script>
       $('.contact1-form').on('submit',function(e){
         //optional validation code here
@@ -34,4 +44,4 @@ This application provides a point and click interface that allows users to quick
         })
     });
   </script>
-</form>
+  </form>
