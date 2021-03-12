@@ -4,7 +4,7 @@ This application provides a point and click interface that allows users to quick
 <!--#### THIS APPLICATION HAS BEEN TEMPORARILY DISABLED FOR MAINTENANCE-->
 [Launch Web Application](http://44.230.157.126:3838)
 <br><br>
-#### Request new features, report a bug, or provide feedback
+##### Request new features, report a bug, or provide feedback
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
     <fieldset id="fs-frm-inputs">
       <label for="full-name">Full Name</label>
@@ -21,33 +21,4 @@ This application provides a point and click interface that allows users to quick
       <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
     </fieldset>
     <input type="submit" value="Submit">
-  <script>
-      $('.contact1-form').on('submit',function(e){
-        //optional validation code here
-  
-        e.preventDefault();
-      
-        $.ajax({
-            url: "https://script.google.com/macros/s/AKfycbxFKTaVyB0E-MraPA3ZAeNKpe1ikqq0MM2d1xFsreECdE1qjYJ84pXl5cbbXk0z6no/exec",
-            method: "POST",
-            dataType: "json",
-            data: $(".contact1-form").serialize(),
-            success: function(response) {
-                
-                if(response.result == "success") {
-                    $('.contact1-form')[0].reset();
-                    alert('Thank you for providing feedback.');
-                    return true;
-                }
-                else {
-                    alert("Something went wrong. Please try again.")
-                }
-            },
-            error: function() {
-                
-                alert("Something went wrong. Please try again.")
-            }
-        })
-    });
-  </script>
   </form>
