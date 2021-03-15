@@ -15,7 +15,7 @@ As an open access tool, this program is free for all to use. Please note that pe
 
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
 
-<br>
+<br/>
 
 
 ##### Request new features, report a bug, or provide feedback
