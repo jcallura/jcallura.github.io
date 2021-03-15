@@ -1,5 +1,5 @@
 ## WorldViewR
-This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models can be exported in various file formats for use with external software. 
+This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models can be exported in various file formats for use with external software.
 <p>
 <!--#### THIS APPLICATION HAS BEEN TEMPORARILY DISABLED FOR MAINTENANCE-->
 
@@ -14,7 +14,7 @@ Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D mod
 ##### Request new features, report a bug, or provide feedback
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
     <fieldset id="fs-frm-inputs">
-      <label for="full-name">Full Name</label>
+      <label for="full-name">Name</label>
         <br>
       <input type="text" name="name" id="full-name" placeholder="Optional">
         <br>
