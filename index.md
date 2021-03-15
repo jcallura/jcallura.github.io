@@ -7,7 +7,7 @@ This application provides a point and click interface that allows users to quick
 [Launch Web Application](http://44.230.157.126:3838)
 <br>
 
-##### Usage and Attribution
+##### Usage and attribution
 
 As an open access tool, this program is free for all to use. Please note that performance may vary depending on the volume of traffic to the site. Data available from U.S. Geological Survey, National Geospatial Program. Additional documentation for this software is pending. To cite this program, please use:
 <p>
