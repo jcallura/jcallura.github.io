@@ -6,14 +6,14 @@ This application provides a point and click interface that allows users to quick
 [Launch Web Application](http://44.230.157.126:3838)
 <br>
 
-<h4>Usage and attribution</h4>
+<h5>Usage and attribution</h5>
 
 As an open access tool, this program is free for all to use. Please note that performance may vary depending on the volume of traffic to the site. Data available from U.S. Geological Survey, National Geospatial Program. Additional documentation for this software is pending. To cite this program, please use:
 <p>
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
 <br/>
     
-<h4>Request new features, report a bug, or provide feedback</h4>
+<h5>Request new features, report a bug, or provide feedback</h5>
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
     <fieldset id="fs-frm-inputs">
