@@ -1,6 +1,6 @@
 ## WorldViewR
 
-This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models can be exported in various file formats for use with external software.
+This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models and raw data can be exported in various file formats for use with external software.
 <p>
 <!--#### THIS APPLICATION HAS BEEN TEMPORARILY DISABLED FOR MAINTENANCE-->
 <a href="http://44.230.157.126:3838">Launch Web Application</a>
@@ -12,8 +12,8 @@ Data available from U.S. Geological Survey, National Geospatial Program. Additio
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
 <br/>
 
-<h5>Support this project</h5>
-This program is open access and free for all to use. Please note that performance may vary depending on the volume of traffic to the site. If you would like to support this project and help offset server and maintenance costs, click the link below.
+<h5>Support the project</h5>
+This program is open access and free for all to use. Please note that performance may vary depending on traffic volume. If you would like to support this project and help offset server and maintenance costs, click the donate button below.
 
 <br/>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
