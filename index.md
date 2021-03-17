@@ -16,7 +16,7 @@ Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D mod
 <br/>
 
 <h5>Support the project</h5>
-This program is open access and free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the donate button below.
+This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the donate button below.
 
 <br/>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
