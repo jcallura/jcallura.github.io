@@ -7,10 +7,24 @@ This application provides a point and click interface that allows users to quick
 <br>
 
 <h5>Usage and attribution</h5>
-
-As an open access tool, this program is free for all to use. Please note that performance may vary depending on the volume of traffic to the site. Data available from U.S. Geological Survey, National Geospatial Program. Additional documentation for this software is pending. To cite this program, please use:
+Data available from U.S. Geological Survey, National Geospatial Program. Additional documentation for this software is pending. To cite this program, please use:
 <p>
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
+<br/>
+
+<h5>Support this project</h5>
+This program is open access and free for all to use. Please note that performance may vary depending on the volume of traffic to the site. If you would like to support this project and help offset server and maintenance costs, click the link below.
+
+<br/>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="business" value="9VBZZGE44GFSA" />
+<input type="hidden" name="item_name" value="WorldViewR Maintenance Costs" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
 <br/>
     
 <h5>Request new features, report a bug, or provide feedback</h5>
