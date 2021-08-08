@@ -2,8 +2,7 @@
 
 This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. 
 Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. 
-Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models and raw data can be exported in various file formats for use with external software. WorldViewR is 
-currently optimized for desktop use and some features may be unavailable on mobile devices.
+Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models and raw data can be exported in various file formats for use with external software. WorldViewR is currently optimized for desktop use and some features may be unavailable on mobile devices.
 <p>
 <!--#### THIS APPLICATION HAS BEEN TEMPORARILY DISABLED FOR MAINTENANCE-->
 <!--<form action="http://44.230.157.126:3838">
@@ -13,9 +12,12 @@ currently optimized for desktop use and some features may be unavailable on mobi
 <br>-->
 
 <h5>Usage and attribution</h5>
-Data available from U.S. Geological Survey, National Geospatial Program. Additional documentation for this software is pending. To cite this program, please use:
+To cite this program, please use:
 <p>
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
+<br/>
+
+WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>).
 <br/>
 
 <h5>Support the project</h5>
