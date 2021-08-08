@@ -16,12 +16,12 @@ To cite this program, please use:
 <p>
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
 <br/>
-
+<p>
 WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>).
 <br/>
 
 <h5>Support the project</h5>
-This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the donate button below.
+This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
 
 <br/>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -31,10 +31,7 @@ This open access program is free for all to use. Please note that performance ma
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-
-<br/>
-    
+ 
 <h5>Request new features, report a bug, or provide feedback</h5>
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
