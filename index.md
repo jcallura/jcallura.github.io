@@ -1,4 +1,4 @@
-## WorldViewR
+## <a href="http://44.230.157.126:3838" class="button">WorldViewR</a>
 
 This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. 
 Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. 
@@ -9,8 +9,8 @@ currently optimized for desktop use and some features may be unavailable on mobi
 <!--<form action="http://44.230.157.126:3838">
     <input type="submit" value="Launch Web Application" />
 </form>-->
-<a href="http://44.230.157.126:3838" class="button">Launch Web Application</a>
-<br>
+<!--<a href="http://44.230.157.126:3838" class="button">Launch Web Application</a>
+<br>-->
 
 <h5>Usage and attribution</h5>
 Data available from U.S. Geological Survey, National Geospatial Program. Additional documentation for this software is pending. To cite this program, please use:
