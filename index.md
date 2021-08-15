@@ -1,4 +1,4 @@
-## WorldViewR (Click to Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a> - <a href="http://52.36.60.21:3838" class="button">Server C</a>)
+## WorldViewR (Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a> - <a href="http://52.36.60.21:3838" class="button">Server C</a>)
 
 This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. 
 Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. 
