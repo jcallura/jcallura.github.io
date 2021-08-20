@@ -15,6 +15,7 @@
 </form>-->
 <!--<a href="http://44.230.157.126:3838" class="button">Launch Web Application</a>
 <br>-->
+
 </details>
 
 <details>
@@ -26,6 +27,7 @@
         <br/>
     <p>
         WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>). Street map tiles are provided by OpenStreetMap contributors (<a href="https://www.openstreetmap.org/copyright">data source attribution</a>).
+
 </details>
    
 <details>
@@ -41,7 +43,8 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-    </details>
+
+</details>
     
 <details>
     <summary>Request new features, report a bug, or provide feedback</summary>
