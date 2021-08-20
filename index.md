@@ -27,7 +27,7 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
     
     <details><summary>Support the project</summary>
         
-This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
+        This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
 
 <br/>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -40,8 +40,8 @@ This open access program is free for all to use. Please note that performance ma
     </details>
     
     <details><summary>Request new features, report a bug, or provide feedback</summary>
-
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
+        
+        <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
     <fieldset id="fs-frm-inputs">
       <label for="full-name">Name</label>
         <br>
@@ -58,4 +58,5 @@ This open access program is free for all to use. Please note that performance ma
     </fieldset>
     <input type="submit" value="Submit">
   </form>
-    </details>
+        
+</details>
