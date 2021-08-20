@@ -16,7 +16,7 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
 <br>-->
 
 <details>
-  <summary><h5>Usage and attribution</h5></summary>
+  <summary>Usage and attribution</summary>
   To cite this program, please use:
 <p>
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
