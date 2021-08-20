@@ -12,7 +12,7 @@
 </details>
 
 <details>
-    <summary><strong>Usage and attribution</strong></summary>
+    <summary><strong>Usage and Attribution</strong></summary>
     
     <br/>
     WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>). Street map tiles are provided by OpenStreetMap contributors (<a href="https://www.openstreetmap.org/copyright">data source attribution</a>). To cite this program, please use:
@@ -22,7 +22,7 @@
 </details>   
 
 <details>
-    <summary><strong>Support the project</strong></summary>
+    <summary><strong>Support the Project</strong></summary>
         
     <br/>
         This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-    <summary><strong>Provide feedback</strong></summary>
+    <summary><strong>Provide Feedback</strong></summary>
     
     <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
         <fieldset id="fs-frm-inputs">
