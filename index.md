@@ -15,8 +15,7 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
 <!--<a href="http://44.230.157.126:3838" class="button">Launch Web Application</a>
 <br>-->
 
-<details>
-  <summary>Usage and attribution</summary>
+<details><summary>Usage and attribution</summary>
     
     To cite this program, please use:
     <p>
@@ -24,8 +23,8 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
         <br/>
     <p>
         WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>). Street map tiles are provided by OpenStreetMap contributors (<a href="https://www.openstreetmap.org/copyright">data source attribution</a>).
-                
-        <summary>Support the project</summary>
+    </details>
+    <details><summary>Support the project</summary>
         
 This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
 
@@ -37,8 +36,8 @@ This open access program is free for all to use. Please note that performance ma
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-    
-    <summary>Request new features, report a bug, or provide feedback</summary>
+    </details>
+    <details><summary>Request new features, report a bug, or provide feedback</summary>
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
     <fieldset id="fs-frm-inputs">
@@ -57,5 +56,4 @@ This open access program is free for all to use. Please note that performance ma
     </fieldset>
     <input type="submit" value="Submit">
   </form>
-        
     </details>
