@@ -4,17 +4,17 @@
 <details>
     <summary><b>Instructions</b></summary>
     
-    </br>
+    <br/>
     <a href="https://github.com/jcallura/jcallura.github.io/blob/gh_pages/WorldViewR_demo.gif">Show Visual Demo</a>
     <p>
-        This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models and raw data can be exported in various file formats for use with external software. WorldViewR is currently optimized for desktop use and some features may be unavailable on mobile devices.
+    This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models and raw data can be exported in various file formats for use with external software. WorldViewR is currently optimized for desktop use and some features may be unavailable on mobile devices.
     </p>
 </details>
 
 <details>
     <summary><b>Usage and attribution</b></summary>
     
-    </br>
+    <br/>
     To cite this program, please use:
     <p>
         Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
@@ -27,7 +27,7 @@
 <details>
     <summary><b>Support the project</b></summary>
         
-    </br>
+    <br/>
         This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
     <br/>
     <form action="https://www.paypal.com/donate" method="post" target="_top">
