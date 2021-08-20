@@ -11,6 +11,7 @@
     </p>
 </details>
 
+<br/>
 <details>
     <summary><strong>Usage and attribution</strong></summary>
     
@@ -19,8 +20,9 @@
     <p>
         Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
     </p>
-</details>
-   
+</details>   
+
+<br/>
 <details>
     <summary><strong>Support the project</strong></summary>
         
@@ -35,7 +37,8 @@
         <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
     </form>
 </details>
-    
+
+<br/>    
 <details>
     <summary><strong>Request new features, report a bug, or provide feedback</strong></summary>
     
