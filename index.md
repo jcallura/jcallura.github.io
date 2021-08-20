@@ -22,8 +22,7 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
         Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
         <br/>
     <p>
-        WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>). Street map tiles are provided by OpenStreetMap contributors (<a href="https://www.openstreetmap.org/copyright">data source attribution</a>).
-    </details>
+        WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>). Street map tiles are provided by OpenStreetMap contributors (<a href="https://www.openstreetmap.org/copyright">data source attribution</a>).</details>
     
     <details> <summary>Support the project</summary>
         
@@ -36,8 +35,7 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
 <input type="hidden" name="currency_code" value="USD" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-    </details>
+</form></details>
     
     <details> <summary>Request new features, report a bug, or provide feedback</summary>
         
@@ -57,6 +55,4 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
       <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
     </fieldset>
     <input type="submit" value="Submit">
-  </form>
-        
-</details>
+  </form></details>
