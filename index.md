@@ -37,7 +37,7 @@
 </details>
 
 <details>
-    <summary><strong>Request new features, report a bug, or provide feedback</strong></summary>
+    <summary><strong>Provide feedback</strong></summary>
     
     <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
         <fieldset id="fs-frm-inputs">
