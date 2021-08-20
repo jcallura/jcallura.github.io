@@ -11,7 +11,7 @@
 </details>
 
 <details>
-    <summary>Usage and attribution</summary>
+    <summary><b>Usage and attribution</b></summary>
     
     To cite this program, please use:
     <p>
@@ -23,7 +23,7 @@
 </details>
    
 <details>
-    <summary>Support the project</summary>
+    <summary><b>Support the project</b></summary>
         
         This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
     <br/>
@@ -37,7 +37,7 @@
 </details>
     
 <details>
-    <summary>Request new features, report a bug, or provide feedback</summary>
+    <summary><b>Request new features, report a bug, or provide feedback</b></summary>
     
     <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
         <fieldset id="fs-frm-inputs">
