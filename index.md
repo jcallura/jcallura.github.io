@@ -2,7 +2,7 @@
 ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
 
 <details>
-    <summary>Instructions</summary>
+    <summary><b>Instructions</b></summary>
     
     <a href="https://github.com/jcallura/jcallura.github.io/blob/gh_pages/WorldViewR_demo.gif">Show Visual Demo</a>
     <p>
