@@ -34,15 +34,14 @@
     <summary>Support the project</summary>
         
         This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
-
-<br/>
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="9VBZZGE44GFSA" />
-<input type="hidden" name="item_name" value="WorldViewR Maintenance Costs" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+    <br/>
+    <form action="https://www.paypal.com/donate" method="post" target="_top">
+        <input type="hidden" name="business" value="9VBZZGE44GFSA" />
+        <input type="hidden" name="item_name" value="WorldViewR Maintenance Costs" />
+        <input type="hidden" name="currency_code" value="USD" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+    </form>
 
 </details>
     
