@@ -1,7 +1,7 @@
 ## WorldViewR
 ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
 
-<a href="https://github.com/jcallura/jcallura.github.io/blob/gh_pages/WorldViewR_demo.gif">Show Visual Demo</a>
+<a href="https://github.com/jcallura/jcallura.github.io/blob/gh_pages/WorldViewR_demo.gif">Show Visual Demo</a><p>
 This application provides a point and click interface that allows users to quickly render interactive 3D elevation models. 
 Draw a bounding box on the map, click the button to download elevation data, then navigate to the second tab to render, view, and modify the resulting 3D site model. 
 Hover over the 3D model to view point elevations, click and drag to rotate, or scroll to zoom in and out. Models and raw data can be exported in various file formats for use with external software. WorldViewR is currently optimized for desktop use and some features may be unavailable on mobile devices.
