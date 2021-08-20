@@ -1,7 +1,6 @@
 ## WorldViewR
 ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
 
-<br/>
 <details>
     <summary><strong>Instructions</strong></summary>
     
@@ -12,7 +11,6 @@
     </p>
 </details>
 
-<br/>
 <details>
     <summary><strong>Usage and attribution</strong></summary>
     
@@ -23,7 +21,6 @@
     </p>
 </details>   
 
-<br/>
 <details>
     <summary><strong>Support the project</strong></summary>
         
@@ -39,7 +36,6 @@
     </form>
 </details>
 
-<br/>    
 <details>
     <summary><strong>Request new features, report a bug, or provide feedback</strong></summary>
     
