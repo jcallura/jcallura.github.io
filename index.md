@@ -15,15 +15,16 @@ Hover over the 3D model to view point elevations, click and drag to rotate, or s
 <!--<a href="http://44.230.157.126:3838" class="button">Launch Web Application</a>
 <br>-->
 
-<h5>Usage and attribution</h5>
-To cite this program, please use:
+<details>
+  <summary><h5>Usage and attribution</h5></summary>
+  To cite this program, please use:
 <p>
 Jonathan C. Callura (2021). WorldViewR: Interactive elevation mapping and 3D modeling program. Accessed at <a href="https://jcallura.github.io">https://jcallura.github.io</a>
 <br/>
 <p>
 WorldViewR was built with the R programming language using the Shiny package. Elevations represent bare-earth terrain heights from open source terrain tiles (<a href="https://registry.opendata.aws/terrain-tiles/" class="button">terrain tile source</a>; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" class="button">data source attribution</a>). Street map tiles are provided by OpenStreetMap contributors (<a href="https://www.openstreetmap.org/copyright">data source attribution</a>).
 <br/>
-
+</details>
 <h5>Support the project</h5>
 This open access program is free for all to use. Please note that performance may vary depending on traffic volume. If you would like to help offset server and maintenance costs, click the PayPal donate button below.
 
