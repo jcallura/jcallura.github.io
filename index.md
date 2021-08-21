@@ -1,8 +1,7 @@
 ## WorldViewR
 ### Launch: <a href="http://44.230.157.126:3838" class="button">Server A</a> - <a href="http://54.68.18.107:3838" class="button">Server B</a>
 
-<hr style="height:1px; visibility:hidden;" />
-<details>
+<details style="margin-top:20px">
     <summary><strong>Instructions</strong></summary>
     
     <br/>
@@ -12,7 +11,7 @@
     </p>
 </details>
 
-<details>
+<details style="margin-top:20px">
     <summary><strong>Usage and Attribution</strong></summary>
     
     <br/>
@@ -22,7 +21,7 @@
     </p>
 </details>   
 
-<details>
+<details style="margin-top:20px">
     <summary><strong>Support the Project</strong></summary>
         
     <br/>
@@ -37,7 +36,7 @@
     </form>
 </details>
 
-<details>
+<details style="margin-top:20px">
     <summary><strong>Provide Feedback</strong></summary>
     
     <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbknapj" method="post">
