@@ -4,6 +4,8 @@ This web application provides a point and click interface that allows users to q
 
 ### <a href="http://www.worldviewr.com" class="button">www.WorldViewR.com</a>
 
+<iframe src="https://jcallura.shinyapps.io/WorldViewR/">
+
 <!--<br/>
 <h2>WorldViewR Pro</h2>
 Support for higher resolution models, more capabilities, and active feature development. Coming soon...
