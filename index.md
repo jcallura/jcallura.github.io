@@ -4,7 +4,7 @@ This web application provides a point and click interface that allows users to q
 
 ### <a href="http://www.worldviewr.com" class="button">www.WorldViewR.com</a>
 
-<iframe height="700" width="100%" src="https://jcallura.shinyapps.io/WorldViewR"> </iframe>
+<iframe width="1024px" src="https://jcallura.shinyapps.io/WorldViewR"> </iframe>
 
 <!--<br/>
 <h2>WorldViewR Pro</h2>
