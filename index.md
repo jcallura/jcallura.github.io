@@ -1,8 +1,8 @@
-## WorldViewR
+<!--## WorldViewR
 
 This web application provides a point and click interface that allows users to quickly render interactive 3D elevation models. The program has been moved to a dedicated domain:
 
-### <a href="http://www.worldviewr.com" class="button">www.WorldViewR.com</a>
+### <a href="http://www.worldviewr.com" class="button">www.WorldViewR.com</a>-->
 
 <iframe width="1024px" src="https://jcallura.shinyapps.io/WorldViewR"> </iframe>
 
